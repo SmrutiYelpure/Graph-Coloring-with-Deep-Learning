@@ -17,10 +17,7 @@
     <li>Install the required dependencies:
       <pre><code>pip install tensorflow numpy</code></pre>
     </li>
-    <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/graph-coloring-register-allocation.git
-cd graph-coloring-register-allocation</code></pre>
-    </li>
+    
     <li>Run the example code:
       <pre><code class="python"># Generate or load some graphs
 graphs = [
