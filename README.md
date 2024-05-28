@@ -17,7 +17,6 @@
     <li>Install the required dependencies:
       <pre><code>pip install tensorflow numpy</code></pre>
     </li>
-    
     <li>Run the example code:
       <pre><code class="python"># Generate or load some graphs
 graphs = [
